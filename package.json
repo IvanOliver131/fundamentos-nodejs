@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scrits": {
-    "dev": "nodemon"
+  "scripts": {
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
     "express": "^4.18.1",
