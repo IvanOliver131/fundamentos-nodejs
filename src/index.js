@@ -5,7 +5,7 @@ const app = express();
 
 const customers = [];
 
-// importamos isso para aceitar receber um objeto JSON
+// importamos isso para aceitar receber um objeto JSON express
 app.use(express.json());
 
 // Middleware
